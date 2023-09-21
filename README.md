@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Space Travelers' App Project</b></h3>
+  <h3><b>Ecommerce-App Project</b></h3>
 
 </div>
 
@@ -10,7 +10,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Space Travelers' Hub\] ](#-Space-Travelers'-Hub-)
+- [📖 \[Ecommerce App\] ](#-Ecommerce App-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Space Travelers' App Project] <a name="about-project"></a>
+# 📖 [ecommerce-app Project] <a name="about-project"></a>
 
-**Space Travelers' App Project** this is a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+**Ecommerce website Project** this is a web application for a company that provides commercial products and services to it consumers with a great user interface that allows user add selected items to cart and make purchases via the website..
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,7 +82,7 @@ Example commands:
 ```sh
   mkdir ecommerce-app
   cd ecommerce-app
-  git clone https://github.com/Zuwairanajma/space-travellers-app.git
+  git clone https://github.com/Zuwairanajma/ecommerce-app.git
 ```
 
 ### Install <a name="install">
@@ -143,7 +143,7 @@ If you like this project please show us support by giving it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this learning opportunity.
+I would like to thank My family and friends for always supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
