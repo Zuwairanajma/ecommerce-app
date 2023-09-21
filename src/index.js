@@ -25,13 +25,13 @@ const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 // const rootElement = document.getElementById('root');
 
-if (rootElement) {
-  console.log('Element with ID "root" exists.');
-  // You can proceed with rendering your React application here
-} else {
-  console.error('Element with ID "root" does not exist.');
-  // Handle this situation, e.g., display an error message
-}
+// if (rootElement) {
+//   console.log('Element with ID "root" exists.');
+//   // You can proceed with rendering your React application here
+// } else {
+//   console.error('Element with ID "root" does not exist.');
+// Handle this situation, e.g., display an error message
+// }
 
 root.render(
   <Provider store={store}>
