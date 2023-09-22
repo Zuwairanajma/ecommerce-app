@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/css/main.5fffb3d2.css",
+    "main.js": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/js/main.f481fc1c.js",
+    "static/media/spinner.jpg": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/media/spinner.afa973eee05e0ebff95a.jpg",
+    "static/media/register.png": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/forgot.png": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/media/forgot.cfba148d722f088aeddb.png",
+    "static/media/login.png": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/loader.gif": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "index.html": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/index.html",
+    "main.5fffb3d2.css.map": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/css/main.5fffb3d2.css.map",
+    "main.f481fc1c.js.map": "/%3Chttps://Zuwairanajma.github.io/ecommerce-app%3E/static/js/main.f481fc1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fffb3d2.css",
+    "static/js/main.f481fc1c.js"
+  ]
+}
